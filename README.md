@@ -46,3 +46,4 @@ Os atributos dos imóveis são os seguintes:
 Robson de Castro Serafim
 
 https://www.linkedin.com/in/robson-castro-serafim/
+https://medium.com/@robson.serafim
