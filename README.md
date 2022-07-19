@@ -11,6 +11,7 @@ Além disso, o porfólio de imóveis da empresa é muito extenso, sendo impossí
 A partir do desafio em responder esses questionamentos o principal objetivo em explorar esse dataset foi criar um **Projeto de Insights** que responderá a questão de negócio a partir da coleta, limpeza e exploração dos dados e, como produto final, entregar um aplicativo interativo utilizando  o streamlit.
 
 Para acessar o aplicativo Streamlit, basta clicar no link a seguir publicado utilizando a plataforma cloud Heroku:
+
 https://peaceful-mountain-62003.herokuapp.com/ 
 
 ## Questão de negócio:
